@@ -1,0 +1,25 @@
+body {
+  background-color: khaki;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+.chart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+
+footer {
+    font-size: 10px;
+    font-style: italic;
+    text-align: center;
+    color: #aaaaaa;
+    margin: 30px;
+}
